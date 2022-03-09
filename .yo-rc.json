@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "version": "1.15.0-beta.1",
+    "libraryName": "spfx-graph-v-3",
+    "libraryId": "50cb06a0-b703-4157-9310-e82a0f04962b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-graph-v-3",
+    "solutionShortDescription": "spfx-graph-v-3 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

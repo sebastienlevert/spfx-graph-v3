@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-graph-v-3-client-side-solution",
+    "id": "50cb06a0-b703-4157-9310-e82a0f04962b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0-beta.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-graph-v-3 description"
+      },
+      "longDescription": {
+        "default": "spfx-graph-v-3 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-graph-v-3 Feature",
+        "description": "The feature that activates elements of the spfx-graph-v-3 solution.",
+        "id": "a638f0ea-be62-4de9-92e8-170e9365d1c6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-graph-v-3.sppkg"
+  }
+}
